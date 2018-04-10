@@ -21,20 +21,21 @@ $students = array(
  'tel' => '5942033',
  'email' => 'kingharold@farmersmarket.horsestuff.com',
  'points' => '140'
-, ),
-array(
-'id' => '4',
-'name' => 'Jim Pembroke',
-'tel' => '4533322',
-'email' => 'JimP@some.com',
-'points' => '111',
-),
-array(
-'id' => '5',
-'name' => 'Ben Duke',
-'tel' => '3344556',
-'email' => 'BenDuke@smarket.com',
-'points' => '145',
+,
+ ),
+ array(
+ 'id' => '4',
+ 'name' => 'Jim Pembroke',
+ 'tel' => '4533322',
+ 'email' => 'JimP@some.com',
+ 'points' => '111',
+ ),
+ array(
+ 'id' => '5',
+ 'name' => 'Ben Duke',
+ 'tel' => '3344556',
+ 'email' => 'BenDuke@smarket.com',
+ 'points' => '145',
 
 )
 );
